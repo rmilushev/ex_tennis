@@ -1,0 +1,2 @@
+defmodule Quma do
+end
